@@ -76,3 +76,7 @@ fields:
   type: text
   hidden: true
   default: home
+- type: boolean
+  name: turn_on
+  label: Turn on
+  hidden: false
